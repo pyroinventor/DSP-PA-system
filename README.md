@@ -32,5 +32,7 @@ Here is an old version of the SigmaStudio setup
 To set up in a new location, I simply mount the speakers on their tripods or set them up on the floor, take some frequency response measurements with REW, transfer the results into SigmaDSP and upload the customized profile onto the DSP board. I'll usually take another FR measurement to make sure everything looks hunky dory, then I can move on to setting up rest of music gear. Depending on the venue, I'll use either the laptop PSU or the beefy server supply. Usually the laptop supply is fine for vocals in a small venue.
 
 ![livingroomPA](https://github.com/pyroinventor/DSP-PA-system/assets/77114423/9cf5e4dd-11a6-4f17-bcbf-5930c1889df7)
-This is the setup I used for a little acoustic set in my livingroom.
+This is the setup I used for a little acoustic set in my livingroom. \
+Maybe not the most replicable setup, but hopefully it serves as inspiration for anyone who wants to build something similar. Thanks for reading!
+
 
