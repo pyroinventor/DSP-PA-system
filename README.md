@@ -10,7 +10,7 @@ The speakers are 2-way, and I wanted to make them DSP controllable and actively 
 
 ## Build Process
 
-I already had the woofers as they were scrapped from another project, so I began by designing an enclosure to fit their TS parameters as well as possible without being too big or inconveniently shaped. I settled on a fairly traditional 6-sided shape that could be mounted on a tripod or rested on one of its 45 deg angles to tilt up. After calculating the volume, taking into account the woofer, tweeter, and internal bracing displacement, I cut the pieces out of some plywood and floorboards I had laying around. Maybe not the best isotropic Hi-Fi material, but it got the job done. Here are the shells:
+I already had the woofers as they were scrapped from another project (see my DIY PA V1 repo), so I began by designing an enclosure to fit their TS parameters as well as possible without being too big or inconveniently shaped. I settled on a fairly traditional 6-sided shape that could be mounted on a tripod or rested on one of its 45 deg angles to tilt up. After calculating the volume, taking into account the woofer, tweeter, and internal bracing displacement, I cut the pieces out of some plywood and floorboards I had laying around. Maybe not the best isotropic Hi-Fi material, but it got the job done. Here are the shells:
 
 ![paBoxes](https://github.com/pyroinventor/DSP-PA-system/assets/77114423/c94d6b6d-0c6c-4e34-9675-9b442dcaffa3)
 Wood filler in the screw holes / brad nail dents
